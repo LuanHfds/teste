@@ -1,0 +1,18 @@
+body{background-color: brown;
+}
+h1{text-align: center;
+color: black;
+font-size: 300%;
+}
+h2{color: darkgray;
+    border-style: double;
+    border-width: 5px;
+    border-color: darkmagenta;
+    margin-right: 65%;
+}
+#ima1{width: 60%;
+    margin-left: 20%;
+}
+
+h3 {font-size: 250%;
+}
